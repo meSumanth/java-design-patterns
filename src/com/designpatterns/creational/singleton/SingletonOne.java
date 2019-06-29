@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.designpatterns.creational.singleton;
 
 /**
@@ -26,3 +23,5 @@ public class SingletonOne {
 	}
 
 }
+
+//Problem ?  What if two different threads invoke getInstance()
